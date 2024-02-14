@@ -1,0 +1,6 @@
+arabic-reshaper 
+python-bidi
+torch
+pandas
+seaborn
+WordCloud
